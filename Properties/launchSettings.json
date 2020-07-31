@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "-f *.MXF -t \"D:\\Filmprojekt2020\\Minnen\\5\" -p \"C:\\Users\\Hampus\\OneDrive\\Filmprojekt 2020\\5\""
+    }
+  }
+}
